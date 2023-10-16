@@ -1,4 +1,4 @@
-program TBPad;
+program Project1;
 
 uses
   Forms,
